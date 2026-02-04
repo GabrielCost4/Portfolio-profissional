@@ -26,6 +26,7 @@ Este projeto tem como objetivo consolidar meus estudos em Front-End, aplicar nov
 ## 📹 Demonstração
 
 Um vídeo demonstrando o funcionamento do portfólio está disponível no LinkedIn.
+https://www.linkedin.com/in/gabriel-costa-domiciano-a18a2a325/
 
 ## 👨‍💻 Sobre mim
 
